@@ -1,2 +1,2 @@
 # Databases
-Projects related to MS SQL Server
+JDeveloper - simple jdeveloper application for managing tables from connected database
